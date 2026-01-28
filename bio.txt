@@ -1,1 +1,6 @@
 My name is Carlo and I am a data scientist focused on transforming raw data into actionable insights through statistical modeling and machine learning. I specialize in building data pipelines, performing exploratory data analysis (EDA), and creating visualizations that tell a story. My toolkit includes Python, SQL, and Git, and I am passionate about using data to solve complex real-world problems.
+
+Some examples of real-world projects are:
+- April 2017 – July 2018: Process Optimization Using Genetic Algorithms
+- March 2019 – September 2020: Text Analytics and Fraud Detection
+- November 2021 – August 2024: Predictive Maintenance for Mining Operations
